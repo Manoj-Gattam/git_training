@@ -1,1 +1,2 @@
 this is sample file 1
+This is the modified text in sample1.
